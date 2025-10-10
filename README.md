@@ -28,4 +28,4 @@ flashforge社の3Dプリンタ，Creator 3 Proの管理用リポジトリ
 ## その他
 
 このREADMEは好きに書き加えていって良い．WikiやDiscussionに書くと埋もれるし不慣れな人にはたどり着きにくいので，情報の伝達にはREADMEかIssueを推奨する．
-何かあれば，私まで連絡してください（https://github.com/Yusuke-Yamasaki-555）（卒業してても連絡がつくメアドなので問題なく連絡してください）．
+何かあれば，私まで連絡してください（[https://github.com/Yusuke-Yamasaki-555](https://github.com/Yusuke-Yamasaki-555)）（卒業してても連絡がつくメアドなので問題なく連絡してください）．
